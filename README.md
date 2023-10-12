@@ -4,9 +4,13 @@ The goal of my project was to construct, analyze, and publish a dataset on data.
 Links to any relevant API documentation: 
 
 BeautifulSoup: https://beautiful-soup-4.readthedocs.io/en/latest/
+
 Pandas: https://pandas.pydata.org/docs/
+
 NumPy/Scipy: https://docs.scipy.org/doc/
+
 Matplotlib: https://matplotlib.org/stable/index.html
+
 Wikipedia, All-Time Olympic Games medal table: https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table
 
 
