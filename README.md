@@ -15,7 +15,6 @@ Wikipedia, All-Time Olympic Games medal table: https://en.wikipedia.org/wiki/All
 
 
 
-
 A data type and description for each attribute in your data
   Team (IOC code)'s data type is object and this attribute contains the name of the country participating and the International Olympic Committee country.
   No. Summer Games' data type is integer and this attribute is the number of summer games each country has participated in.
