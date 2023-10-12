@@ -46,7 +46,7 @@ A data type and description for each attribute in your data
   Total Combined Medals' data type is object and this attribute is the total number of winter and summer medals won by each country.
 
 
-I did not see any issues with this dataset. 
+I did not see any issues with this dataset.
 
 <!---
 meghtrik/meghtrik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
