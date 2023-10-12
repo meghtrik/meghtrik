@@ -1,10 +1,26 @@
 The goal of my project was to construct, analyze, and publish a dataset on data.world. I also aim to demonstrate that I can make my project fully reproducible by others through following the best practices for open scientific research.
 
 
-Links to any relevant API documentation: https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table
+Links to any relevant API documentation: 
+
+BeautifulSoup: https://beautiful-soup-4.readthedocs.io/en/latest/
+Pandas: https://pandas.pydata.org/docs/
+NumPy/Scipy: https://docs.scipy.org/doc/
+Matplotlib: https://matplotlib.org/stable/index.html
+Wikipedia, All-Time Olympic Games medal table: https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table
 
 
-The license of your data and any source data
+MIT License
+
+Copyright (c) 2023 Meghna Trikur
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
 
 
 A data type and description for each attribute in your data
@@ -26,7 +42,7 @@ A data type and description for each attribute in your data
   Total Combined Medals' data type is object and this attribute is the total number of winter and summer medals won by each country.
 
 
-Any known issues or potential issues, such as sources of bias in collection
+I issue I encountered was that there was an unnecessary unnamed line in the data, so to fix that I would just remove it.   
 
 <!---
 meghtrik/meghtrik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
